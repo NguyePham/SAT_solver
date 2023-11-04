@@ -1,0 +1,108 @@
+25x25 puzzles:
+==================================
+
+Puzzle 1:
+-------------------
+Binomial encoding:
+Solving time: 2.033535796999786
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.5045868859997427
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 2:
+-------------------
+Binomial encoding:
+Solving time: 1.8779912950003563
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.560591659000238
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 3:
+-------------------
+Binomial encoding:
+Solving time: 2.1294787589995394
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.5647100770001998
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 4:
+-------------------
+Binomial encoding:
+Solving time: 1.9721241679999366
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.7566649589998633
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 5:
+-------------------
+Binomial encoding:
+Solving time: 1.7070351219999793
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.4299586590004765
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 6:
+-------------------
+Binomial encoding:
+Solving time: 1.669757486999515
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.5186545380001917
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 7:
+-------------------
+Binomial encoding:
+Solving time: 1.9424304490003124
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.5137633839995033
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+Puzzle 8:
+-------------------
+Binomial encoding:
+Solving time: 1.9414637159998165
+Number of variables: 15625
+Number of clauses: 1505000
+
+Product encoding:
+Solving time: 0.49423848200058274
+Number of variables: 40625
+Number of clauses: 355000
+-------------------
+
+==================================

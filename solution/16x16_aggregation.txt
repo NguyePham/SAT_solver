@@ -1,0 +1,108 @@
+16x16 puzzles:
+==================================
+
+Puzzle 1:
+-------------------
+Binomial encoding:
+Solving time: 0.24049931499939703
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.09898640700066608
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 2:
+-------------------
+Binomial encoding:
+Solving time: 0.24901276400032657
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.1075746659998913
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 3:
+-------------------
+Binomial encoding:
+Solving time: 0.2511507689996506
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.09960609700010536
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 4:
+-------------------
+Binomial encoding:
+Solving time: 0.2415090959993904
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.11207440699945437
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 5:
+-------------------
+Binomial encoding:
+Solving time: 0.27449927699944965
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.09994217200073763
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 6:
+-------------------
+Binomial encoding:
+Solving time: 0.23867255599998316
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.10625366499971278
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 7:
+-------------------
+Binomial encoding:
+Solving time: 0.2568725990004168
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.11891592099982518
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+Puzzle 8:
+-------------------
+Binomial encoding:
+Solving time: 0.28555189199960296
+Number of variables: 4096
+Number of clauses: 247808
+
+Product encoding:
+Solving time: 0.1172565670003678
+Number of variables: 12288
+Number of clauses: 92160
+-------------------
+
+==================================

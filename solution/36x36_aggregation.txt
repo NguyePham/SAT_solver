@@ -1,0 +1,108 @@
+36x36 puzzles:
+==================================
+
+Puzzle 1:
+-------------------
+Binomial encoding:
+Solving time: 12.798514737000005
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 4.903424311999515
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 2:
+-------------------
+Binomial encoding:
+Solving time: 8.933384336000017
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 1.7057094820002021
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 3:
+-------------------
+Binomial encoding:
+Solving time: 8.720911460000025
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 1.45595942700038
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 4:
+-------------------
+Binomial encoding:
+Solving time: 13.867173042999639
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 8.004133358000217
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 5:
+-------------------
+Binomial encoding:
+Solving time: 10.495104551000622
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 7.697993494999537
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 6:
+-------------------
+Binomial encoding:
+Solving time: 8.979810924999583
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 1.827632581999751
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 7:
+-------------------
+Binomial encoding:
+Solving time: 9.719415650000883
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 3.650207507000232
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+Puzzle 8:
+-------------------
+Binomial encoding:
+Solving time: 8.925072834000275
+Number of variables: 46656
+Number of clauses: 6542208
+
+Product encoding:
+Solving time: 2.783223135999833
+Number of variables: 108864
+Number of clauses: 1067904
+-------------------
+
+==================================

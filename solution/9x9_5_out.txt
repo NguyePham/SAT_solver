@@ -1,0 +1,18 @@
+6 9 7 2 8 3 1 4 
+1 2 8 5 4 9 6 3 
+4 5 3 1 7 6 8 2 
+8 1 2 9 5 4 3 7 
+7 4 9 3 6 8 2 5 
+5 3 6 7 2 1 4 9 
+2 7 1 6 3 5 9 8 
+9 8 5 4 1 2 7 6 
+
+Binomial encoding:
+Solving time: 0.02215279099982581
+Number of variables: 729
+Number of clauses: 23976
+
+Product encoding:
+Solving time: 0.016486972000166134
+Number of variables: 2673
+Number of clauses: 16200
